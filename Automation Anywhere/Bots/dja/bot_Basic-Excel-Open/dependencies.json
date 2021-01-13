@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\dja\\Basic-Excel-Open","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\dja\\Basic-Excel-Open","manualDependencies":["Automation Anywhere\\Bots\\GAL_FOR_008 MantenimientoUsuarios_20191107162825.xlsx"],"scannedDependencies":["Automation Anywhere\\Bots\\Book1 (version 2).xlsb.xlsx"]}
